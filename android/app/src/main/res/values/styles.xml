@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sv_bg">#FFF7F8FC</color>
+    <color name="sv_bg_dark">#FF12141C</color>
+
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/sv_bg</item>
+        <item name="android:colorBackground">@color/sv_bg</item>
+        <item name="android:statusBarColor">@color/sv_bg</item>
+        <item name="android:navigationBarColor">@color/sv_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

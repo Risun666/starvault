@@ -1,0 +1,16 @@
+# WorkBuddy workspace data
+.workbuddy/
+
+# Android build intermediates and signing material
+android/build/
+android/starvault.keystore
+*.keystore
+*.jks
+*.apk.idsig
+
+# Local temp / editor / OS files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.tmp_*
